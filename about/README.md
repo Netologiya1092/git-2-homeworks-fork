@@ -19,4 +19,4 @@ HEAD
 Идеальное решение как для большой корпорации, так и для малого бизнеса. Поверьте, это не дорого. Вы сэкономите гораздо больше! 
 
 ![](../img/artificial-intelligence.jpg)
->>>>>>> 7ceb53e (Add new text to about page)
+ 7ceb53e (Add new text to about page)
